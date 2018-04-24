@@ -109,7 +109,7 @@ slogansRef.on('child_added', function (snapshot) {
     '<div class="card w-50">' +
       '<div class="card-block">' +
           '<h3 class="card-header card-inverse card-warning p-2 text-center">' + voor + '</h3>' +
-          '<p class="card-text card-outline-secondary">' + slogan + '</p>' +
+          '<p class="card-text card-outline-secondary mt-3">' + slogan + '</p>' +
           '<p class="card-footer"><small class="text-muted">Geplaatst op: ' + time + '</small></p>' +
       '</div>' +
     '</div>'
